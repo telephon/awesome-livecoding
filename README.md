@@ -452,6 +452,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [WAC](https://webaudioconf.com/) - The Web Audio Conference.
 - [HLCI](https://hybrid-livecode.pubpub.org/) - Hybrid Live Coding Interfaces: performance and craft.
 
+## Study Programmes
+- [Music informatics and Epistemic Media, RSH Düsseldorf](https://klang-und-realitaet.rsh-duesseldorf.de/)
+- [Generative Art, UdK Berlin](https://www.udk-berlin.de/en/courses/art-and-media/generative-art/)
+
 ## Related lists
 
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding, Generative Art, Interaction Design, Resources.
